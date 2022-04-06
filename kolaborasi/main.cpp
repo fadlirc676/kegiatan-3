@@ -9,9 +9,11 @@ int main(){
 	input.cetak();
 	input.tofile();
 
+
 	Proses proses;
 	proses.getData();
 	proses.toFile();
+
 
 	Output output;
 	output.getData();
